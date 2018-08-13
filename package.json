@@ -7,8 +7,11 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start",
+    "start": "npm start",
     "generate": "nuxt generate"
+  },
+  "engines": {
+    "node": "8.11.1"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.0.0",

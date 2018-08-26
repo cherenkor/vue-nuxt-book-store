@@ -1,5 +1,6 @@
 # book-store
-
+> [Demo link](https://bookstore-vue.herokuapp.com/)
+#
 ![alt text](https://raw.githubusercontent.com/cherenkor/vue-nuxt-book-store/master/preview.png)
 
 > Book Store - a SPA with store and simple cart.

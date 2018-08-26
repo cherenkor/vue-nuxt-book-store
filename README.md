@@ -1,5 +1,5 @@
 # book-store
-> [Demo link](https://bookstore-vue.herokuapp.com/)
+> [View Demo](https://bookstore-vue.herokuapp.com/)
 #
 ![alt text](https://raw.githubusercontent.com/cherenkor/vue-nuxt-book-store/master/preview.png)
 
